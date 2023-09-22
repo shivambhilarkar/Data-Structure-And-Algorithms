@@ -3,6 +3,10 @@ package BinarySearch;
 /**
  * Input has unique numbers.
  * return minimum number.
+ * 1.find minimum in rotated sorted array.
+ * 2.find maximum in rotated sorted array.
+ * 3.find minimum or maximum in rotated sorted array with duplicates.
+ * 4.find out how many times array has been rotated.
  */
 public class Q7_Find_Minimum_in_rotated_sorted_array {
 
