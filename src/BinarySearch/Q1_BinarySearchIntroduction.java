@@ -52,6 +52,6 @@ public class Q1_BinarySearchIntroduction {
         int[] numArray = {1, 2, 3, 4, 5, 6, 7, 8, 9};
 
         System.out.println(iterativeBinarySearch(numArray, 8));
-        System.out.println(iterativeBinarySearch(numArray, 10));
+//        System.out.println(iterativeBinarySearch(numArray, 10));
     }
 }
